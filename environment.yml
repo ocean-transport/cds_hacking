@@ -16,6 +16,7 @@ dependencies:
   - regionmask
   - scikit-image
   - jupyterlab
+  - nodejs
   - pip
   - pip:
     - git+https://github.com/jbusecke/cmip6_preprocessing.git
