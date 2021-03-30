@@ -15,7 +15,7 @@ dependencies:
   - cftime
   - regionmask
   - scikit-image
-  - jupyterlab
+  - jupyterlab < 3 # k3d does not like jupyterlab 3
   - nodejs
   - pip
   - pip:
