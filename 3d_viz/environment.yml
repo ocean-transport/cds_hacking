@@ -1,4 +1,4 @@
-name: xgcm
+name: hack_3d_viz
 dependencies:
   - python=3.8
   - xarray
