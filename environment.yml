@@ -1,4 +1,6 @@
 name: hack_3d_viz
+channels:
+  - conda-forge
 dependencies:
   - python=3.8
   - xarray
