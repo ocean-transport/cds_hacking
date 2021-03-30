@@ -1,0 +1,22 @@
+name: xgcm
+dependencies:
+  - python=3.8
+  - xarray
+  - netcdf4
+  - dask
+  - numpy
+  - matplotlib
+  - ipygany
+  - pyvista
+  - k3d
+  - intake-esm
+  - gcsfs
+  - zarr
+  - cftime
+  - regionmask
+  - scikit-image
+  - pip
+  - pip:
+    - git+https://github.com/jbusecke/cmip6_preprocessing.git
+    
+    
