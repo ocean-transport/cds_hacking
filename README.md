@@ -1,8 +1,14 @@
 # cds_hacking
 
+## Meeting notes
+
+You can find the meeting notes (still quite messy) [here](https://hackmd.io/H-noWWuvQc2mJOFxG65qxw). 
+
+### 3d viz
+
 [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/ocean-transport/cds_hacking/main)
 
-## Installation
+#### Installation
 
 Create and activate the conda environment:
 
